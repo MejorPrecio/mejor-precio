@@ -227,7 +227,8 @@ html .ui-alt-icon .ui-radio-off:after {
     border-width:1px;
     border-style:solid;
 }.ui-overlay-a,.ui-page-theme-a,.ui-page-theme-a .ui-panel-wrapper {
-    background-color: #000000;
+    /*background-color: #000000; fondo*/
+    background-color: #FFFFFF;
     border-color:#bbbbbb;
     color: #FFFFFF;/* text-shadow: 0 0px  0  #1CAAA0; */
 }.ui-body-a,.ui-page-theme-a .ui-body-inherit,html .ui-bar-a .ui-body-inherit,html .ui-body-a .ui-body-inherit,html body .ui-group-theme-a .ui-body-inherit,html .ui-panel-page-container-a {
